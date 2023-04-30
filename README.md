@@ -1,2 +1,4 @@
-# Python-Pass-Gen
-Python Password Generator
+# Python Secure Password Generator
+Python Password Generator. Secure and safe.
+
+**Required**:
