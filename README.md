@@ -5,4 +5,4 @@ Python Password Generator. Secure and safe.
 Python
 
 To execute the file: 
-Install Python (python.org)
+Install Python (https://www.python.org)
